@@ -1,2 +1,4 @@
 vouCriarUmRepositorioQueEuInventeiAgora
 Alterei em outro lugar
+
+falazendo alteração no meu arquivo copia
